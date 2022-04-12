@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Biden's top science adviser, Eric Lander, resigns amid reports of bullying - POLITICO",
+      "description": "The White House initially stood by him despite the president’s zero-tolerance policy and numerous credible reports of misconduct.",
+      "url": "https://www.politico.com/news/2022/02/07/eric-lander-resigns-00006545",
+      "urlToImage": "https://static.politico.com/cd/78/0ca4a7da4c84be3fb6c44e523ef2/220207-eric-lander-ap-773.png",
+      "publishedAt": "2022-02-08T01:57:12Z",
+      "content": "Landers resignation constitutes the highest profile departure from the presidents team to date (his office has Cabinet-level status) and a black eye for Biden, who had pledged early on that he would … [+3085 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kevin Liptak, CNN",
+      "title": "Nord Stream 2 pipeline proves to be a sticking point in Biden and new German chancellor's show of unity - CNN",
+      "description": "President Joe Biden and German Chancellor Olaf Scholz sought to put on a united front Monday at the White House, but one key sticking point appeared to remain despite their pledges of unity: The future of the Nord Stream 2 gas pipeline.",
+      "url": "https://www.cnn.com/2022/02/07/politics/biden-scholz-meeting-ukraine/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220207155057-01-biden-scholz-joint-presser-super-tease.jpg",
+      "publishedAt": "2022-02-07T22:21:00Z",
+      "content": "(CNN)President Joe Biden and German Chancellor Olaf Scholz sought to put on a united front Monday at the White House, but one key sticking point appeared to remain despite their pledges of unity: The… [+9839 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Jacqueline Alemany, Josh Dawsey, Tom Hamburger, Ashley Parker",
+      "title": "National Archives had to retrieve Trump White House records from Mar-a-Lago - The Washington Post",
+      "description": "",
+      "url": "https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2M2KJNSFUAI6ZPWKHTDRAO6YCQ.jpg&w=1440",
+      "publishedAt": "2022-02-07T11:02:08Z",
+      "content": "The recovery of the boxes from Trumps Florida resort raises new concerns about his adherence to the Presidential Records Act, which requires the preservation of memos, letters, notes, emails, faxes a… [+5584 chars]"
+    }
+  ]
+}
